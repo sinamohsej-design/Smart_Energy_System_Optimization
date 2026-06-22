@@ -1,4 +1,4 @@
-# Smart_Energy_System_Optimization
+# Smart_Energy_System
 A Python-based Optimization Model during 24 Hours that minimizes Electricity Cost and ensuring Energy Balance at every Time step in a Hybrid Renewable Energy System consisting of  Solar PV Generation, Battery Storage System, Grid Import/ Export.
 Using Linear Programming (LP) Alghorithm,
 Using Pulp Solver.
